@@ -11,7 +11,7 @@ Please See my TensorFlow projects in the folders!
 
 ### 2. CNN Fashion MNIST <br /> (Classification of the fashion MNIST dataset using a convolutional neural network)
 
-| *One of the Predictions* |
+| *One of the Predictions (fashion MNIST)* |
 |-------------------------|
 | <img src="https://github.com/randyshee/TensorFlow-Projects/blob/main/CNN-Fashion-MNIST/Image/Test%20Label%20666.png"> |
 
