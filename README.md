@@ -8,3 +8,10 @@ Please See my TensorFlow projects in the folders!
 | *Accuracy of the Train and the Test Set at Different Randomization Level* |
 |-------------------------|
 | <img src="https://github.com/randyshee/TensorFlow-Projects/blob/main/Rethinking-Generalization/Image/2000%20Epochs.png"> |
+
+### 2. CNN Fashion MNIST <br /> (Classification of the fashion MNIST dataset using a convolutional neural network)
+
+| *One of the Predictions* |
+|-------------------------|
+| <img src="https://github.com/randyshee/TensorFlow-Projects/blob/main/CNN-Fashion-MNIST/Image/Test%20Label%20666.png"> |
+
